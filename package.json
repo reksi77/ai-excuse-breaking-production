@@ -1,0 +1,1 @@
+{"description":"The funniest one-line excuse an AI gives its human after breaking production — a make.fun bounty entry.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"ai-excuse-breaking-production","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
